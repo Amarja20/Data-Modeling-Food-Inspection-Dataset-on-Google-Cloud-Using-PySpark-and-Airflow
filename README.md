@@ -1,4 +1,4 @@
-# Data Modeling of New York City Food Inspection Dataset on Google Cloud Using PySpark and Airflow
+# Data Modeling of Food Inspection Dataset on Google Cloud Using PySpark and Airflow
 
 This project outlines the data processing workflow for ingesting and transforming data from an API, performing inspections, and storing the results in Parquet tables. The entire process is orchestrated and managed through Airflow (Cloud Composer) on Google Cloud Platform (GCP).
 
